@@ -1,1 +1,1 @@
-Hello, this is my first Github clone project!
+Hello, this is a message from my cloned repository!
